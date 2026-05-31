@@ -591,16 +591,9 @@ Invoke-WebRequest -Uri "http://localhost:3000/book" -Headers $headers | Select-O
 
 ---
 
-## 🤖 AI Assistance Note
-
-Parts of this project were built with AI assistance (Claude / Gemini), acting as a productivity tool similar to using documentation or Stack Overflow. This is disclosed as requested in the assignment brief.
-
-The database schema, API structure, SQL queries, Docker configuration, and React dashboard were all reviewed, understood, and tested by me. I made deliberate design decisions throughout — such as correcting the `book_cat_id` and `book_collection_id` column types from `varchar` to `INT` to support proper MySQL foreign key constraints, and registering the `/issuance/pending/today` route before `/:id` to prevent Express routing conflicts.
-
----
 
 <div align="center">
 
-**Built for the Alt Life Labs Internship Assignment — May 2026**
+**Built for the Alt Life Labs Internship Assignment - May 2026**
 
 </div>
