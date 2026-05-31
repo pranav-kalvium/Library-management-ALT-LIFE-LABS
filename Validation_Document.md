@@ -2,7 +2,7 @@
 
 **Candidate:** Pranav Prakash
 **Date:** May 30, 2026
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/pranav-kalvium/Library-management-ALT-LIFE-LABS
 
 ## 1. Overview
 This document outlines the validation and testing performed on the Library Management System. The system was built using MySQL, Node.js/Express, and React, and is containerized using Docker Compose.
